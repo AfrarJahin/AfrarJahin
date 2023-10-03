@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrarjahin" alt="afrarjahin" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning tools & technology, NestJs, React, Node and some other backend technologies**
+- 🌱 **Rresearch interest: ** Natural Language Processing, Computer vision, HCI
 
 - 💬 Ask me about **React, Javascriot, Node**
 
