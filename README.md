@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, This is Afrar Jahin.</h1>
-<h3 align="center">A passionate developer from Bangladesh.I have 1 year of working experience.Love to face new challenges and always ready to take myself one step forward to achieve the milestone.</h3>
+<h3 align="center">A passionate Programmer from Bangladesh.I have 1+ year of working experience.Love to face new challenges and always ready to take myself one step forward to achieve the milestone.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrarjahin&label=Profile%20views&color=0e75b6&style=flat" alt="afrarjahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrarjahin" alt="afrarjahin" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs, React, Node and some other backend technologies**
+- 🌱 I’m currently learning **Machine learning tools & technology, NestJs, React, Node and some other backend technologies**
 
 - 💬 Ask me about **React, Javascriot, Node**
 
