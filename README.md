@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Machine learning tools & technology, NestJs, React, Node and some other backend technologies**
 - 🌱 **Rresearch interest:** Natural Language Processing, Computer vision, HCI
 
-- 💬 Ask me about **React, Javascriot, Node**
+- 💬 Ask me about **React, Javascript, Node**
 
 - 📫 How to reach me **afrarjahin@gmail.com**
 
